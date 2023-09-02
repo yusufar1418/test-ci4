@@ -16,7 +16,7 @@
             </div>
           <?php endif; ?>
 
-          <a href="<?= base_url('admin/create') ?>" class="btn btn-primary mb-3">Tambah User</a>
+          <a href="<?= base_url('admin/create') ?>" class="btn btn-primary mb-3">Add User</a>
           
 
       <div class="table-responsive">
