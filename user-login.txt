@@ -1,2 +1,4 @@
 Email: superadmin@gmail.com
 password: halo123456
+
+*note bisa download versi fullnya berupa file zip yang di branch main, karena ini folder vendornya tidak terupload di github
